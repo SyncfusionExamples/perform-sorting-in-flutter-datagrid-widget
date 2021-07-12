@@ -11,7 +11,7 @@ Documentation: https://help.syncfusion.com/flutter/datagrid/sorting
 * [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
 ## How to run this application
-To run this application, you need to first clone or download the ‘how to load json data to a flutter datagrid’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
+To run this application, you need to first clone or download the ‘perform sorting in flutter datagrid widget’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
 ## Further help
 For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
