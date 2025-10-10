@@ -1,18 +1,39 @@
-# Perform Sorting in Flutter DataGrid Widget
-A quick-start example to help you to perform sort operations in Syncfusion Flutter DataGrid. You will learn how to enable sorting in a DataGrid and how to enable tri state sorting. Also, you will learn how to enable multi column sorting, show sort numbers, and sort column by double tapping. And finally, you will learn how to disable sorting for an individual column, and sort columns programmatically.
+# Flutter DataGrid Sorting
 
-Watch the video: Coming soon...
 
-Documentation: https://help.syncfusion.com/flutter/datagrid/sorting
+This repository contains a sample that demonstrates This repository contains a sample that demonstrates how to enable and customize sorting in the Syncfusion® DataGrid package, including tri state sorting, multi column sorting, sort order numbers, double tap sorting, per column disable, and programmatic sorting.
 
-## Requirements to run the demo
-* [VS Code](https://code.visualstudio.com/download)
-* [Flutter SDK v2.0.0+](https://flutter.dev/docs/development/tools/sdk/overview)
-* [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
-## How to run this application
-To run this application, you need to first clone or download the ‘perform sorting in flutter datagrid widget’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
+## Syncfusion® controls:
 
-## Further help
-For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
- [Flutter documentation](https://flutter.dev/docs/get-started/install).
+
+This project used the following Syncfusion® widget(s):
+* [DataGrid](https://www.syncfusion.com/flutter-widgets/flutter-datagrid)
+
+
+## Supported platforms
+
+
+Refer to the following link to know about the supported platform - [Platforms](https://help.syncfusion.com/flutter/system-requirements#supported-platforms)
+
+
+## Requirements to run the sample
+
+
+Refer to the following link to know about system requirements - [System Requirements](https://help.syncfusion.com/flutter/system-requirements)
+
+
+## How to run the sample
+
+
+1. Clone the sample and open it in preferred IDE.
+2. Run the application.
+
+
+*Note: If you download the sample using the "Download ZIP" option, right-click it, select Properties, and then select Unblock.*
+
+
+## License
+
+
+Syncfusion® has no liability for any damage or consequence that may arise by using or viewing the samples. The samples are for demonstrative purposes, and if you choose to use or access the samples, you agree to not hold Syncfusion® liable, in any form, for any damage that is related to use, for accessing, or viewing the samples. By accessing, viewing, or seeing the samples, you acknowledge and agree Syncfusion®’s samples will not allow you seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize, or otherwise do anything with Syncfusion®’s samples.
